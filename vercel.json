@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/sistema/index.html" },
+    { "source": "/ocr", "destination": "/ocr/index.html" }
+  ]
+}
