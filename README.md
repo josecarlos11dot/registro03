@@ -1,1 +1,1 @@
-# registro03
+# Sistema OCR + Registro

@@ -1,4 +1,4 @@
-let registros = []; // Memoria volátil (se reinicia a veces en serverless)
+let registros = []; // Memoria volátil (puede reiniciarse en serverless)
 
 export default function handler(req, res) {
   const { method } = req;
