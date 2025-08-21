@@ -2,9 +2,7 @@
   "rewrites": [
     { "source": "/", "destination": "/sistema/index.html" },
     { "source": "/ocr", "destination": "/ocr/index.html" },
-
     { "source": "/style.css", "destination": "/sistema/style.css" },
     { "source": "/js/(.*)", "destination": "/sistema/js/$1" }
-
-  
+  ]
 }
